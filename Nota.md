@@ -1,0 +1,1 @@
+Profesor, no termine completamente el reto pues no me compilo y tuve algun problema con los array que no pude resolver, le mando todo lo que pude hacer, gracias.
